@@ -11,8 +11,8 @@ const FrameComponent5: FunctionComponent<FrameComponent5Type> = ({
     <section
       className={`self-stretch flex flex-row items-start justify-start pt-0 px-0 pb-[36px] box-border max-w-full shrink-0 ${className}`}
     >
-      <header className="flex-1 bg-whitesmoke-200 flex flex-row items-start justify-center py-2 px-5 box-border gap-[3.1px] top-[0] z-[99] sticky max-w-full text-left text-base text-deeppink font-inter">
-        <div className="w-[676px] flex flex-col items-start justify-start pt-px pb-0 pr-5 pl-0 box-border max-w-full text-9xl">
+      <header className="flex-1 bg-whitesmoke-200 flex flex-row flex-wrap items-start justify-between py-2 px-5 box-border gap-[3.1px] top-[0] z-[99] sticky max-w-full text-left text-base text-deeppink font-inter">
+        <div className="w-[400px] flex flex-col items-start justify-start pt-px pb-0 pr-5 pl-0 box-border max-w-full text-9xl">
           <h2 className="m-0 mt-2.5 w-[355px] relative text-inherit tracking-[0.36px] leading-[26px] font-medium font-inherit flex items-center whitespace-nowrap max-w-full">
             SinghJiTech
           </h2>
